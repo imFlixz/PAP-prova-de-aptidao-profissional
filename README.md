@@ -5,7 +5,7 @@ Prova de Aptidão Profissional (PAP) - Curso Profissional de Técnico/a de Gesti
 ##  Sobre o Projeto
 O **VaiDarBanhoOCao** é uma aplicação de desktop desenvolvida em **C# (.NET)** com o objetivo de gerir um estabelecimento de banhos e tosquias para animais. O sistema permite otimizar o dia a dia do espaço, facilitando o registo e controlo de clientes, animais, marcações de serviços e consultas.
 
-## 🚀Funcionalidades Principais
+## Funcionalidades Principais
 * **Gestão de Clientes:** Registar, consultar e editar dados dos donos dos animais.
 * **Gestão de Animais:** Associar pets aos respetivos donos e registar características (raça, porte, etc.).
 * **Marcação de Serviços:** Agendar banhos, tosquias e outros serviços disponíveis.
